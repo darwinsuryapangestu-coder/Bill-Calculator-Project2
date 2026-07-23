@@ -51,6 +51,15 @@ Totals:
 - Functions
 - Function Return Values
 - Arrays
+- Arrays Indxing
+- Ternary Operator
+- Conditional Logic
+
+## 👨‍💻 Author
+
+Darwin Surya Pangestu
+
+Learning JavaScript fundamentals through coding challenges.
 - Arrays Indexing
 - Ternary Operator
 - Conditional Logic
